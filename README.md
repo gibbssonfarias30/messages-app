@@ -1,2 +1,2 @@
-# messagesApp
+# MessagesApp
 CRUD Java JDBC Persistencia MySQL
