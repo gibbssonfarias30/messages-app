@@ -1,2 +1,2 @@
 # MessagesApp
-CRUD Java JDBC Persistence MySQL
+Console messaging app | CRUD Java JDBC Persistence MySQL
